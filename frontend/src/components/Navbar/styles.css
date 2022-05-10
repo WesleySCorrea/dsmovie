@@ -1,5 +1,4 @@
 header {
-    display: flex;
     height: 60px;
     background-color: var(--color-primary);
     align-items: center;
